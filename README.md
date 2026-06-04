@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <!-- Contador de Visitas Discreto e Elegante -->
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=3ECF8E&style=flat-square" alt="Views">
+  </p>
+</div>
 
-<!--
-**pascalramos175/pascalramos175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Matheus Ramos (Pascal)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=3ECF8E&center=false&vCenter=true&width=500&lines=Software+Developer;3D+Web+Systems+%7C+Three.js;Automation+%26+Scripts;Curious+by+nature...+🌱" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ System Status
+
+```zsh
+pascal@sc_brazil: ~/readme $ fastfetch
