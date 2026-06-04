@@ -112,6 +112,13 @@ Python                              ░░░░░░░░░░░░░░�
 
 ```
 
+</div>
+
+<div align="center">
+    
+![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=pascalramos175&show_icons=true&theme=tokyonight&card_width=400&line_height=24)
+</div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>📈 My Projects </h>
