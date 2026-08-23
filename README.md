@@ -1,141 +1,286 @@
 <div align="center">
-    <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
-    </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:243b55&height=170&section=header&text=Pascal%20Ramos&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Programmer%20%7C%20Builder&descAlignY=62&descSize=16"/>
+
+<br>
+
+<a href="https://github.com/PascalRamos175">
+<img src="https://img.shields.io/badge/GitHub-PascalRamos175-161b22?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=PascalRamos175&style=for-the-badge&color=161b22&label=PROFILE+VIEWS">
+
+<br><br>
+
 </div>
 
-<br>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<h2 align="center">Olá, eu sou o Pascal! Tudo bem?<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
-Sou um desenvolvedor de sistemas com interesse em diversas áreas da tecnologia. Como gosto de aprender coisas novas, acabo estudando um pouco de tudo o tédio às vezes meio chatinho né?
-<br>
-<br>
-Abaixo você encontrará as áreas nas quais possuo mais experiência e afinidade. Espero que goste do meu trabalho e do design que preparei.
-<br>
-<br>
+## `> whoami`
 
-<br>
-<br>
-<br>
+Olá, eu sou **Pascal Ramos**.
 
-<img src=https://i.pinimg.com/originals/26/a0/96/26a09634994b96e38d5bdafd16fa9b75.gif height=97% width=97% align=center alt=generated_image />
+Desenvolvedor interessado em **programação, sistemas, jogos e tecnologia**.
 
-<br>
-<br>
-<br>
+Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coisas, entender o motivo e transformar isso em projetos.
 
-<p>
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5In5cp1vHg8F8sQSGXb5LGOKcuBxaprWRrQ&s" width="350" /> 
-
-```
-pascalramos175@github
--------------------------
-Nome de usuário: PascalRamos
-Quem sou eu: Uma pessoa normal e tranquila.
-
-Linguagens: Variantes de C e Luau.
-Anime favorito: Re:Zero e Bleach
-Pronomes: Ele/Dele.
-
-Localização: Santa Catarina, Brasil.
-
-Música favorita: Stop Crying Your Heart Out, Oasis.
-Hobbies: Assistir anime, ler mangá e ouvir música.
-```
-</p>
-
-<br>
-<br>
-
-<div>
-<h2 align="center"> 🎶 Musicas Favoritas </h2>
-</div>
-
-<p align="right"><a href = "https://www.youtube.com/watch?v=dhZUsNJ-LQU&list=RDdhZUsNJ-LQU&start_radio=1&pp=ygUac3RvcCBjcnlpbmcgeW91ciBoZWFydCBvdXSgBwE%3D"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_3L6jqAtjxxxpdg_vKwk_56bmoD6gc_5ig&s" width = "170" align = "left"/></a><b><br> Stop Crying Your Heart Out </b></p>
-<br>
-<br>
-
-<p align="left"><a href = "https://www.youtube.com/watch?v=3sJWy1xMrVw&list=RD3sJWy1xMrVw&start_radio=1&pp=oAcB"><img  src ="https://i.scdn.co/image/ab67616d00001e022d76654b76c77e23170cb152" width="170" align="right"></a><b><br><br>Stay With Me - Miki Matsubara | Piano Cover by Welder Dias</b></p>
-
-<br>
 <br>
 
 <br>
-<br>
-<br>
 
-<img src=https://i.pinimg.com/originals/36/ab/9b/36ab9b97a11ae6bb1e502f273db68d54.gif height=97% width=97% align=center alt=generated_image />
+**Interesses**
 
-<div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
-</div>
-<div align = "center">
-<p align = "justify"><br></p>
-<p align = "center">
-     <a href="https://dikaardnt.com/projects">
-        <img style="margin: 5px;"src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,js&perline=5" alt="My Skills"/> 
-    </a>
-</p>
-</div>
-<br>
+`Game Development` · `Cybersecurity` · `AI` · `Systems` · `Electronics`
 
-**Meus Commits** 
+</td>
+
+<td width="40%" valign="top">
 
 ```text
-🌞 Morning                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-🌆 Daytime                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-🌃 Evening                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-🌙 Night                  0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-```
-📅 **Minha produção se baseia em dias de...** 
-
-```text
-Monday                   0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Tuesday                  0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Wednesday                0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Thursday                 0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Friday                   0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Saturday                 0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-Sunday                   0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00  % 
-```
-
-
-📊 **Minhas principais linguagens de programação:** 
-
-```text
-💬 Programming Languages: 
-Luau                                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-C#                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-C                                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-C++                                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Python                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+┌──────────────────────────┐
+│       PASCAL.EXE         │
+├──────────────────────────┤
+│                          │
+│  STATUS     Learning     │
+│  LOCATION   Brazil       │
+│  FOCUS      Software     │
+│  MODE       Building     │
+│                          │
+├──────────────────────────┤
+│                          │
+│  > compile               │
+│  > build                 │
+│  > experiment            │
+│  > repeat                │
+│                          │
+└──────────────────────────┘
 ```
 
-</div>
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-    
-![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=pascalramos175&show_icons=true&theme=tokyonight&card_width=400&line_height=24)
+
+<a href="#-stack">
+<img src="https://img.shields.io/badge/STACK-161b22?style=flat-square">
+</a>
+<a href="#-projects">
+<img src="https://img.shields.io/badge/PROJECTS-161b22?style=flat-square">
+</a>
+<a href="#-statistics">
+<img src="https://img.shields.io/badge/STATISTICS-161b22?style=flat-square">
+</a>
+<a href="#-achievements">
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-161b22?style=flat-square">
+</a>
+<a href="#-currently-learning">
+<img src="https://img.shields.io/badge/LEARNING-161b22?style=flat-square">
+</a>
+
 </div>
 
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3>📈 My Projects </h>
+# `// stack`
 
-<h2 align="center"> Projetos </h2>
-<p align="center">
-  <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
-</p>
+<table>
+<tr>
+<td width="33%" align="center">
 
-###
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,lua,js&perline=3">
+
+<br><br>
+
+`Python`
+`C`
+`C++`
+`C#`
+`Luau`
+`JavaScript`
+
+</td>
+
+<td width="33%" align="center">
+
+### Web & Runtime
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&perline=4">
+
+<br><br>
+
+`HTML`
+`CSS`
+`JavaScript`
+`Node.js`
+
+</td>
+
+<td width="33%" align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&perline=3">
+
+<br><br>
+
+`Git`
+`GitHub`
+`VS Code`
+`Linux`
+`Arduino`
+
+</td>
+</tr>
+</table>
+
+---
+
+# `// projects`
+
+> Uma visão geral dos projetos organizados pela principal tecnologia utilizada.
+
+<details open>
+<summary><strong>🐍 Python</strong></summary>
+
+<br>
+
+| Projeto                  | Área       | Descrição                  | Status |
+| :----------------------- | :--------- | :------------------------- | :----: |
+| **[Nome do projeto](#)** | Automation | Descrição curta do projeto |   🟢   |
+| **[Nome do projeto](#)** | AI         | Descrição curta do projeto |   🟡   |
+| **[Nome do projeto](#)** | Tools      | Descrição curta do projeto |   🟡   |
+| **[Nome do projeto](#)** | Systems    | Descrição curta do projeto |   🔵   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>⚙️ C</strong></summary>
+
+<br>
+
+| Projeto                  | Área       | Descrição       | Status |
+| :----------------------- | :--------- | :-------------- | :----: |
+| **[Nome do projeto](#)** | Algorithms | Descrição curta |   🟢   |
+| **[Nome do projeto](#)** | Systems    | Descrição curta |   🟡   |
+| **[Nome do projeto](#)** | Low Level  | Descrição curta |   🟡   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>⚡ C++</strong></summary>
+
+<br>
+
+| Projeto                  | Área        | Descrição       | Status |
+| :----------------------- | :---------- | :-------------- | :----: |
+| **[Nome do projeto](#)** | Systems     | Descrição curta |   🟢   |
+| **[Nome do projeto](#)** | Game Dev    | Descrição curta |   🟡   |
+| **[Nome do projeto](#)** | Experiments | Descrição curta |   🟡   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>🔷 C#</strong></summary>
+
+<br>
+
+| Projeto                  | Área     | Descrição       | Status |
+| :----------------------- | :------- | :-------------- | :----: |
+| **[Nome do projeto](#)** | Game Dev | Descrição curta |   🟢   |
+| **[Nome do projeto](#)** | Systems  | Descrição curta |   🟡   |
+| **[Nome do projeto](#)** | Tools    | Descrição curta |   🟡   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>🌐 JavaScript</strong></summary>
+
+<br>
+
+| Projeto                  | Área    | Descrição               | Status |
+| :----------------------- | :------ | :---------------------- | :----: |
+| **[Discord RPG Bot](#)** | Discord | Bot com sistemas de RPG |   🟢   |
+| **[Nome do projeto](#)** | Web     | Aplicação web           |   🟢   |
+| **[Nome do projeto](#)** | Tools   | Ferramenta experimental |   🟡   |
+| **[Nome do projeto](#)** | Backend | Sistema / API           |   🟡   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>🎮 Luau</strong></summary>
+
+<br>
+
+| Projeto                  | Área      | Descrição             | Status |
+| :----------------------- | :-------- | :-------------------- | :----: |
+| **[Nome do projeto](#)** | Roblox    | Experiência / sistema |   🟢   |
+| **[Nome do projeto](#)** | Combat    | Sistema de combate    |   🟡   |
+| **[Nome do projeto](#)** | RPG       | Sistema de RPG        |   🟡   |
+| **[Nome do projeto](#)** | Framework | Sistema experimental  |   🟡   |
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>🔌 Arduino / Electronics</strong></summary>
+
+<br>
+
+| Projeto                  | Área       | Descrição              | Status |
+| :----------------------- | :--------- | :--------------------- | :----: |
+| **[Nome do projeto](#)** | Arduino    | Experimento eletrônico |   🟢   |
+| **[Nome do projeto](#)** | Sensors    | Sistema com sensores   |   🟡   |
+| **[Nome do projeto](#)** | Automation | Automação experimental |   🟡   |
+
+<br>
+
+</details>
+
+---
+
+# `// project status`
+
+<div align="center">
+
+| Símbolo | Significado        |
+| :-----: | :----------------- |
+|    🟢   | Em desenvolvimento |
+|    🔵   | Mantido            |
+|    🟡   | Experimental       |
+|    🟠   | Em pausa           |
+|    ⚫    | Arquivado          |
 
 </div>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">🔥 Jogo da Cobrinha</h3>
+---
 
-  
-![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
+# `// statistics`
+
+<div align="center">
+
+<img src="https://github-readme-stats-opal-psi-50.vercel.app/api?username=pascalramos175&show_icons=true&theme=tokyonight&card_width=400&line_height=24">
+
+<br><br>
+
+</div>
+
+---
 
