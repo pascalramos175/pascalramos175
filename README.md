@@ -32,8 +32,6 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 **Interesses**
 
-`Game Development` · `Cybersecurity` · `AI` · `Systems` · `Electronics`
-
 </td>
 
 <td width="40%" valign="top">
