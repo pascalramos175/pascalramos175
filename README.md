@@ -127,22 +127,6 @@ Python                              ░░░░░░░░░░░░░░�
 <p align="center">
   <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
 </p>
-<table>
-  <tr>
-    <td valign="top">
-      <h3> JavaScript </h3>
-      <ul>
-        <li>Black Hole Sun: <a href="https://pascalramos175.github.io/Black-Hole-Sun/"> Buraco Negro </a></li>
-      </ul>
-    </td>
-      <tr>
-    <td valign="top">
-      <h3> Repositorios JS </h3>
-      <ul>
-        <li>Black Hole Sun: <a href="https://github.com/pascalramos175/Black-Hole-Sun">Black Hole</a></li>
-      </ul>
-    </td>
-</table>
 
 ###
 
@@ -155,7 +139,6 @@ Python                              ░░░░░░░░░░░░░░�
 <div align="center"> 👀 </div>
 
 <div align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
   </a>
 </div>
