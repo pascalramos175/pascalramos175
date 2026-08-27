@@ -149,6 +149,8 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
+# Fundamentos da Sintaxe
+
 | Projeto                  | Área       | Descrição                  | Status |
 | :----------------------- | :--------- | :------------------------- | :----: |
 | **[Nome do projeto](#)** | Automation | Descrição curta do projeto |   🟢   |
@@ -157,6 +159,13 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 | **[Nome do projeto](#)** | Systems    | Descrição curta do projeto |   🔵   |
 
 <br>
+
+| Projeto                  | Área       | Descrição                  | Status |
+| :----------------------- | :--------- | :------------------------- | :----: |
+| **[Nome do projeto](#)** | Automation | Descrição curta do projeto |   🟢   |
+| **[Nome do projeto](#)** | AI         | Descrição curta do projeto |   🟡   |
+| **[Nome do projeto](#)** | Tools      | Descrição curta do projeto |   🟡   |
+| **[Nome do projeto](#)** | Systems    | Descrição curta do projeto |   🔵   |
 
 </details>
 
