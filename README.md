@@ -153,10 +153,16 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 | Projeto                  | Área       | Descrição                  | Status |
 | :----------------------- | :--------- | :------------------------- | :----: |
-| **[Nome do projeto](#)** | Automation | Descrição curta do projeto |   🟢   |
-| **[Nome do projeto](#)** | AI         | Descrição curta do projeto |   🟡   |
-| **[Nome do projeto](#)** | Tools      | Descrição curta do projeto |   🟡   |
-| **[Nome do projeto](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[001 - Hello World](#)** | Automation | Descrição curta do projeto |   🟢   |
+| **[002 - Saudação personalizada](#)** | AI         | Descrição curta do projeto |   🟡   |
+| **[003 - Apresentação do usuário](#)** | Tools      | Descrição curta do projeto |   🟡   |
+| **[004 - Exibir nome, idade e cidade](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[005 - Mostrar uma frase usando variáveis](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[006 - Criar um cartão de apresentação](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[007 - Exibir informações em múltiplas linhas](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[008 - Criar uma mensagem formatada](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[009 - Criar um perfil simples](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| **[010 - Criar um programa de boas-vindas](#)** | Systems    | Descrição curta do projeto |   🔵   |
 
 <br>
 
