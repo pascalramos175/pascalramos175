@@ -149,29 +149,37 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-# Fundamentos da Sintaxe
+# Nivel 001 — Fundamentos da Sintaxe
 
-| Projeto                  | Área       | Descrição                  | Status |
-| :----------------------- | :--------- | :------------------------- | :----: |
-| **[001 - Hello World](#)** | Automation | Descrição curta do projeto |   🟢   |
-| **[002 - Saudação personalizada](#)** | AI         | Descrição curta do projeto |   🟡   |
-| **[003 - Apresentação do usuário](#)** | Tools      | Descrição curta do projeto |   🟡   |
-| **[004 - Exibir nome, idade e cidade](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[005 - Mostrar uma frase usando variáveis](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[006 - Criar um cartão de apresentação](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[007 - Exibir informações em múltiplas linhas](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[008 - Criar uma mensagem formatada](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[009 - Criar um perfil simples](#)** | Systems    | Descrição curta do projeto |   🔵   |
-| **[010 - Criar um programa de boas-vindas](#)** | Systems    | Descrição curta do projeto |   🔵   |
+| Projeto                  | Descrição                  | Status |
+| :----------------------- | :------------------------- | :----: |
+| **[001 - Hello World](https://github.com/pascalramos175/001.py)** | criado para demonstrar o funcionamento básico da linguagem e a saída de texto no terminal. |   🔵   |
+| **[002 - Saudação personalizada](https://github.com/pascalramos175/002.py)** | Um programa simples em Python que solicita o nome do usuário e exibe uma saudação personalizada.|   🔵   |
+| **[003 - Apresentação do usuário](https://github.com/pascalramos175/003.py)**  | Um programa simples em Python que solicita o nome e a idade do usuário e, em seguida, apresenta essas informações de forma personalizada no terminal. |   🔵   |
+| **[004 - Exibir nome, idade e cidade](https://github.com/pascalramos175/004.py)** | Um programa simples em Python que armazena e exibe informações básicas de uma pessoa, como nome, idade e cidade. |   🔵   |
+| **[005 - Mostrar uma frase usando variáveis](https://github.com/pascalramos175/005.py)** | Um programa simples em Python que utiliza variáveis para armazenar o nome e a idade de uma pessoa e, em seguida, exibe essas informações em uma frase personalizada. | 🔵|
+| **[006 - Criar um cartão de apresentação](https://github.com/pascalramos175/006.py)** | Um programa em Python que cria um cartão de apresentação diretamente no terminal, utilizando informações armazenadas em variáveis e técnicas de formatação de strings.|🔵 |
+| **[007 - Exibir informações em múltiplas linhas](https://github.com/pascalramos175/007.py)**| Um programa simples em Python que demonstra diferentes maneiras de exibir textos em várias linhas no terminal. |   🔵   |
+| **[008 - Criar uma mensagem formatada](https://github.com/pascalramos175/008.py)**| Um programa em Python que cria mensagens personalizadas utilizando variáveis, f-strings e strings multilinha. |   🔵   |
+| **[009 - Criar um perfil simples](https://github.com/pascalramos175/009.py)**| Um programa simples em Python que utiliza um dicionário para armazenar informações de um perfil e exibi-las de forma organizada no terminal. |   🔵   |
+| **[010 - Criar um programa de boas-vindas](https://github.com/pascalramos175/010.py)**| Um programa simples em Python que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada. |   🔵   |
 
 <br>
 
-| Projeto                  | Área       | Descrição                  | Status |
-| :----------------------- | :--------- | :------------------------- | :----: |
-| **[Nome do projeto](#)** | Automation | Descrição curta do projeto |   🟢   |
-| **[Nome do projeto](#)** | AI         | Descrição curta do projeto |   🟡   |
-| **[Nome do projeto](#)** | Tools      | Descrição curta do projeto |   🟡   |
-| **[Nome do projeto](#)** | Systems    | Descrição curta do projeto |   🔵   |
+# Nivel 002 — Variáveis
+
+| Projeto                  | Descrição                  | Status |
+| :----------------------- | :------------------------- | :----: |
+| **[011 - Criar variáveis com diferentes tipos](https://github.com/pascalramos175/011.py)** | Descrição curta do projeto |   🟢   |
+| **[012 - Trocar o valor de duas variáveis](https://github.com/pascalramos175/012.py)** | Descrição curta do projeto |   🟢   |
+| **[013 - Criar um cadastro simples](https://github.com/pascalramos175/013.py)** | Descrição curta do projeto |   🟢   |
+| **[014 - Armazenar informações de um produto](https://github.com/pascalramos175/014.py)** | Descrição curta do projeto |   🟢   |
+| **[015 - Armazenar informações de um personagem](https://github.com/pascalramos175/015.py)** | Descrição curta do projeto |   🟢   |
+| **[016 - Criar ficha de jogador](https://github.com/pascalramos175/016.py)** | Descrição curta do projeto |   🟢   |
+| **[017 - Calcular idade usando variáveis](https://github.com/pascalramos175/017.py)** | Descrição curta do projeto |   🟢   |
+| **[018 - Calcular salário usando variáveis](https://github.com/pascalramos175/018.py)** | Descrição curta do projeto |   🟢   |
+| **[019 - Calcular preço total de produtos](https://github.com/pascalramos175/019.py)** | Descrição curta do projeto |   🟢   |
+| **[020 - Criar uma ficha de RPG](https://github.com/pascalramos175/020.py)** | Descrição curta do projeto |   🟢   |
 
 </details>
 
@@ -266,22 +274,6 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 <br>
 
 </details>
-
----
-
-# `// project status`
-
-<div align="center">
-
-| Símbolo | Significado        |
-| :-----: | :----------------- |
-|    🟢   | Em desenvolvimento |
-|    🔵   | Mantido            |
-|    🟡   | Experimental       |
-|    🟠   | Em pausa           |
-|    ⚫    | Arquivado          |
-
-</div>
 
 ---
 
