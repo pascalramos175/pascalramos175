@@ -151,18 +151,18 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 # Nivel 001 — Fundamentos da Sintaxe
 
-| Projeto                  | Descrição                  | Status |
-| :----------------------- | :------------------------- | :----: |
-| **[001 - Hello World](https://github.com/pascalramos175/001.py)** | criado para demonstrar o funcionamento básico da linguagem e a saída de texto no terminal. |   🔵   |
-| **[002 - Saudação personalizada](https://github.com/pascalramos175/002.py)** | Um programa simples em Python que solicita o nome do usuário e exibe uma saudação personalizada.|   🔵   |
-| **[003 - Apresentação do usuário](https://github.com/pascalramos175/003.py)**  | Um programa simples em Python que solicita o nome e a idade do usuário e, em seguida, apresenta essas informações de forma personalizada no terminal. |   🔵   |
-| **[004 - Exibir nome, idade e cidade](https://github.com/pascalramos175/004.py)** | Um programa simples em Python que armazena e exibe informações básicas de uma pessoa, como nome, idade e cidade. |   🔵   |
-| **[005 - Mostrar uma frase usando variáveis](https://github.com/pascalramos175/005.py)** | Um programa simples em Python que utiliza variáveis para armazenar o nome e a idade de uma pessoa e, em seguida, exibe essas informações em uma frase personalizada. | 🔵|
-| **[006 - Criar um cartão de apresentação](https://github.com/pascalramos175/006.py)** | Um programa em Python que cria um cartão de apresentação diretamente no terminal, utilizando informações armazenadas em variáveis e técnicas de formatação de strings.|🔵 |
-| **[007 - Exibir informações em múltiplas linhas](https://github.com/pascalramos175/007.py)**| Um programa simples em Python que demonstra diferentes maneiras de exibir textos em várias linhas no terminal. |   🔵   |
-| **[008 - Criar uma mensagem formatada](https://github.com/pascalramos175/008.py)**| Um programa em Python que cria mensagens personalizadas utilizando variáveis, f-strings e strings multilinha. |   🔵   |
-| **[009 - Criar um perfil simples](https://github.com/pascalramos175/009.py)**| Um programa simples em Python que utiliza um dicionário para armazenar informações de um perfil e exibi-las de forma organizada no terminal. |   🔵   |
-| **[010 - Criar um programa de boas-vindas](https://github.com/pascalramos175/010.py)**| Um programa simples em Python que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada. |   🔵   |
+| Projeto                  | Descrição                  
+| :----------------------- | :------------------------- 
+| **[001 - Hello World](https://github.com/pascalramos175/001.py)** | criado para demonstrar o funcionamento básico da linguagem e a saída de texto no terminal.
+| **[002 - Saudação personalizada](https://github.com/pascalramos175/002.py)** | Um programa simples em Python que solicita o nome do usuário e exibe uma saudação personalizada.
+| **[003 - Apresentação do usuário](https://github.com/pascalramos175/003.py)**  | Um programa simples em Python que solicita o nome e a idade do usuário e, em seguida, apresenta essas informações de forma personalizada no terminal.
+| **[004 - Exibir nome, idade e cidade](https://github.com/pascalramos175/004.py)** | Um programa simples em Python que armazena e exibe informações básicas de uma pessoa, como nome, idade e cidade.
+| **[005 - Mostrar uma frase usando variáveis](https://github.com/pascalramos175/005.py)** | Um programa simples em Python que utiliza variáveis para armazenar o nome e a idade de uma pessoa e, em seguida, exibe essas informações em uma frase personalizada.
+| **[006 - Criar um cartão de apresentação](https://github.com/pascalramos175/006.py)** | Um programa em Python que cria um cartão de apresentação diretamente no terminal, utilizando informações armazenadas em variáveis e técnicas de formatação de strings.
+| **[007 - Exibir informações em múltiplas linhas](https://github.com/pascalramos175/007.py)**| Um programa simples em Python que demonstra diferentes maneiras de exibir textos em várias linhas no terminal.
+| **[008 - Criar uma mensagem formatada](https://github.com/pascalramos175/008.py)**| Um programa em Python que cria mensagens personalizadas utilizando variáveis, f-strings e strings multilinha.
+| **[009 - Criar um perfil simples](https://github.com/pascalramos175/009.py)**| Um programa simples em Python que utiliza um dicionário para armazenar informações de um perfil e exibi-las de forma organizada no terminal.
+| **[010 - Criar um programa de boas-vindas](https://github.com/pascalramos175/010.py)**| Um programa simples em Python que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada.
 
 <br>
 
@@ -170,17 +170,33 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 | Projeto                  | Descrição                  | Status |
 | :----------------------- | :------------------------- | :----: |
-| **[011 - Criar variáveis com diferentes tipos](https://github.com/pascalramos175/011.py)** | Descrição curta do projeto |   🟢   |
-| **[012 - Trocar o valor de duas variáveis](https://github.com/pascalramos175/012.py)** | Descrição curta do projeto |   🟢   |
-| **[013 - Criar um cadastro simples](https://github.com/pascalramos175/013.py)** | Descrição curta do projeto |   🟢   |
-| **[014 - Armazenar informações de um produto](https://github.com/pascalramos175/014.py)** | Descrição curta do projeto |   🟢   |
-| **[015 - Armazenar informações de um personagem](https://github.com/pascalramos175/015.py)** | Descrição curta do projeto |   🟢   |
-| **[016 - Criar ficha de jogador](https://github.com/pascalramos175/016.py)** | Descrição curta do projeto |   🟢   |
-| **[017 - Calcular idade usando variáveis](https://github.com/pascalramos175/017.py)** | Descrição curta do projeto |   🟢   |
-| **[018 - Calcular salário usando variáveis](https://github.com/pascalramos175/018.py)** | Descrição curta do projeto |   🟢   |
-| **[019 - Calcular preço total de produtos](https://github.com/pascalramos175/019.py)** | Descrição curta do projeto |   🟢   |
-| **[020 - Criar uma ficha de RPG](https://github.com/pascalramos175/020.py)** | Descrição curta do projeto |   🟢   |
+| **[011 - Criar variáveis com diferentes tipos](https://github.com/pascalramos175/011.py)** | Descrição curta do projeto
+| **[012 - Trocar o valor de duas variáveis](https://github.com/pascalramos175/012.py)** | Descrição curta do projeto
+| **[013 - Criar um cadastro simples](https://github.com/pascalramos175/013.py)** | Descrição curta do projeto
+| **[014 - Armazenar informações de um produto](https://github.com/pascalramos175/014.py)** | Descrição curta do projeto 
+| **[015 - Armazenar informações de um personagem](https://github.com/pascalramos175/015.py)** | Descrição curta do projeto 
+| **[016 - Criar ficha de jogador](https://github.com/pascalramos175/016.py)** | Descrição curta do projeto
+| **[017 - Calcular idade usando variáveis](https://github.com/pascalramos175/017.py)** | Descrição curta do projeto
+| **[018 - Calcular salário usando variáveis](https://github.com/pascalramos175/018.py)** | Descrição curta do projeto 
+| **[019 - Calcular preço total de produtos](https://github.com/pascalramos175/019.py)** | Descrição curta do projeto 
+| **[020 - Criar uma ficha de RPG](https://github.com/pascalramos175/020.py)** | Descrição curta do projeto
 
+<br>
+
+# Nivel 003 — Entrada de Dados
+
+| Projeto                  | Descrição                  | Status |
+| :----------------------- | :------------------------- | :----: |
+| **[021 - Perguntar o nome do usuário](https://github.com/pascalramos175/021.py)** | Descrição curta do projeto
+| **[022 - Perguntar a idade](https://github.com/pascalramos175/022.py)** | Descrição curta do projeto
+| **[023 - Perguntar a cidade](https://github.com/pascalramos175/023.py)** | Descrição curta do projeto
+| **[024 - Somar dois números digitados](https://github.com/pascalramos175/024.py)** | Descrição curta do projeto 
+| **[025 - Calcular a média de dois números](https://github.com/pascalramos175/025.py)** | Descrição curta do projeto 
+| **[026 - Calcular a média de três números](https://github.com/pascalramos175/026.py)** | Descrição curta do projeto
+| **[027 - Criar cadastro interativo](https://github.com/pascalramos175/027.py)** | Descrição curta do projeto
+| **[028 - Criar ficha de personagem interativa](https://github.com/pascalramos175/028.py)** | Descrição curta do projeto 
+| **[029 - Criar calculadora de idade](https://github.com/pascalramos175/029.py)** | Descrição curta do projeto 
+| **[030 - Criar sistema de apresentação interativo](https://github.com/pascalramos175/030.py)** | Descrição curta do projeto
 </details>
 
 <details>
@@ -188,11 +204,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área       | Descrição       | Status |
-| :----------------------- | :--------- | :-------------- | :----: |
-| **[Nome do projeto](#)** | Algorithms | Descrição curta |   🟢   |
-| **[Nome do projeto](#)** | Systems    | Descrição curta |   🟡   |
-| **[Nome do projeto](#)** | Low Level  | Descrição curta |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
@@ -203,11 +219,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área        | Descrição       | Status |
-| :----------------------- | :---------- | :-------------- | :----: |
-| **[Nome do projeto](#)** | Systems     | Descrição curta |   🟢   |
-| **[Nome do projeto](#)** | Game Dev    | Descrição curta |   🟡   |
-| **[Nome do projeto](#)** | Experiments | Descrição curta |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
@@ -218,11 +234,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área     | Descrição       | Status |
-| :----------------------- | :------- | :-------------- | :----: |
-| **[Nome do projeto](#)** | Game Dev | Descrição curta |   🟢   |
-| **[Nome do projeto](#)** | Systems  | Descrição curta |   🟡   |
-| **[Nome do projeto](#)** | Tools    | Descrição curta |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
@@ -233,12 +249,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área    | Descrição               | Status |
-| :----------------------- | :------ | :---------------------- | :----: |
-| **[Discord RPG Bot](#)** | Discord | Bot com sistemas de RPG |   🟢   |
-| **[Nome do projeto](#)** | Web     | Aplicação web           |   🟢   |
-| **[Nome do projeto](#)** | Tools   | Ferramenta experimental |   🟡   |
-| **[Nome do projeto](#)** | Backend | Sistema / API           |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
@@ -249,12 +264,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área      | Descrição             | Status |
-| :----------------------- | :-------- | :-------------------- | :----: |
-| **[Nome do projeto](#)** | Roblox    | Experiência / sistema |   🟢   |
-| **[Nome do projeto](#)** | Combat    | Sistema de combate    |   🟡   |
-| **[Nome do projeto](#)** | RPG       | Sistema de RPG        |   🟡   |
-| **[Nome do projeto](#)** | Framework | Sistema experimental  |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
@@ -265,11 +279,11 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 <br>
 
-| Projeto                  | Área       | Descrição              | Status |
-| :----------------------- | :--------- | :--------------------- | :----: |
-| **[Nome do projeto](#)** | Arduino    | Experimento eletrônico |   🟢   |
-| **[Nome do projeto](#)** | Sensors    | Sistema com sensores   |   🟡   |
-| **[Nome do projeto](#)** | Automation | Automação experimental |   🟡   |
+| Projeto                  | Descrição       |
+| :----------------------- | :-------------- |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
+| **[Nome do projeto](#)** | Descrição curta |
 
 <br>
 
