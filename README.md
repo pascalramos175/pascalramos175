@@ -197,6 +197,25 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 | **[028 - Criar ficha de personagem interativa](https://github.com/pascalramos175/028.py)** | Descrição curta do projeto 
 | **[029 - Criar calculadora de idade](https://github.com/pascalramos175/029.py)** | Descrição curta do projeto 
 | **[030 - Criar sistema de apresentação interativo](https://github.com/pascalramos175/030.py)** | Descrição curta do projeto
+
+<br>
+
+# Nivel 004 — Operadores
+
+| Projeto                  | Descrição                  | Status |
+| :----------------------- | :------------------------- | :----: |
+| **[031 - Calculadora de soma](https://github.com/pascalramos175/031.py)** | Descrição curta do projeto
+| **[032 - Calculadora de subtração](https://github.com/pascalramos175/032.py)** | Descrição curta do projeto
+| **[033 - Calculadora de multiplicação](https://github.com/pascalramos175/033.py)** | Descrição curta do projeto
+| **[034 - Calculadora de divisão](https://github.com/pascalramos175/034.py)** | Descrição curta do projeto 
+| **[035 - Calculadora de potência](https://github.com/pascalramos175/035.py)** | Descrição curta do projeto 
+| **[036 - Calculadora de resto](https://github.com/pascalramos175/036.py)** | Descrição curta do projeto
+| **[037 - Calculadora completa](https://github.com/pascalramos175/037.py)** | Descrição curta do projeto
+| **[038 - Área de um quadrado](https://github.com/pascalramos175/038.py)** | Descrição curta do projeto 
+| **[039 - Área de um retângulo](https://github.com/pascalramos175/039.py)** | Descrição curta do projeto 
+| **[040 - Área de um triângulo](https://github.com/pascalramos175/040.py)** | Descrição curta do projeto
+
+
 </details>
 
 <details>
