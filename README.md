@@ -185,8 +185,8 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 # Nivel 003 — Entrada de Dados
 
-| Projeto                  | Descrição                  | Status |
-| :----------------------- | :------------------------- | :----: |
+| Projeto                  | Descrição                  
+| :----------------------- | :------------------------- 
 | **[021 - Perguntar o nome do usuário](https://github.com/pascalramos175/021.py)** | Descrição curta do projeto
 | **[022 - Perguntar a idade](https://github.com/pascalramos175/022.py)** | Descrição curta do projeto
 | **[023 - Perguntar a cidade](https://github.com/pascalramos175/023.py)** | Descrição curta do projeto
@@ -202,8 +202,8 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 # Nivel 004 — Operadores
 
-| Projeto                  | Descrição                  | Status |
-| :----------------------- | :------------------------- | :----: |
+| Projeto                  | Descrição                  
+| :----------------------- | :------------------------- 
 | **[031 - Calculadora de soma](https://github.com/pascalramos175/031.py)** | Descrição curta do projeto
 | **[032 - Calculadora de subtração](https://github.com/pascalramos175/032.py)** | Descrição curta do projeto
 | **[033 - Calculadora de multiplicação](https://github.com/pascalramos175/033.py)** | Descrição curta do projeto
