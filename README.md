@@ -168,8 +168,8 @@ Gosto de aprender construindo: estudar uma tecnologia, experimentar, quebrar coi
 
 # Nivel 002 — Variáveis
 
-| Projeto                  | Descrição                  | Status |
-| :----------------------- | :------------------------- | :----: |
+| Projeto                  | Descrição                  
+| :----------------------- | :------------------------- 
 | **[011 - Criar variáveis com diferentes tipos](https://github.com/pascalramos175/011.py)** | Descrição curta do projeto
 | **[012 - Trocar o valor de duas variáveis](https://github.com/pascalramos175/012.py)** | Descrição curta do projeto
 | **[013 - Criar um cadastro simples](https://github.com/pascalramos175/013.py)** | Descrição curta do projeto
